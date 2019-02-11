@@ -1,0 +1,15 @@
+## GitHub Key Terms and Descriptions
+Repository (Repo) - Storage/Package of files and software 
+Commit - Like a save 
+Commit Hash - Unique code associated with every commit
+Master - 
+Branch - Makes a copy of a file to be editted independent of the original
+New Branch - 
+Graph -- > Network - To visualise branches and full history
+Pull Request - A request sent to the master controller to merge your work to theirs (add description and reason)
+              Git will search for conflicts within the two files and merge were possible 
+Merge - Merge a pull request into the master repository given there are no conflicts
+Fork - Creates a copy of the repository to allow freedom of edditing
+Issues - for filing issues with code, can include screenshots, pictures and stylised markdowns
+
+
