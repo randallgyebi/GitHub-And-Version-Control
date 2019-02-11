@@ -1,2 +1,2 @@
-# GitHub-And-Version-Control
+# GitHub And Version Control
 Learning about GitHub, Git &amp; Version Control
